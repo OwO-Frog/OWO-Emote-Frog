@@ -1,7 +1,6 @@
 # OwO (Emote Frog) 🐸✨
 
-OwO (Emote Frog) is a community-driven meme coin on Ethereum (ERC-20) blending crypto culture, emojis, lore, and frogs. Trust and Transparency is always first for OwO. 
-Contract: `0x806a72273b961145cf5c5f040ad1fcd112b3f11a`  
+OwO (Emote Frog) is a community-driven meme coin on Ethereum (ERC-20) blending crypto culture, emojis, lore, and frogs. Trust and Transparency is always first for OwO. Contract:`0x806a72273b961145cf5c5f040ad1fcd112b3f11a`  
 
 ---
 
