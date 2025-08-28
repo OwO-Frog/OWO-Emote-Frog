@@ -7,9 +7,9 @@ Contract: `0x806a72273b961145cf5c5f040ad1fcd112b3f11a`
 
 ## 🌐 Official Links
 - 🌍 Website: [https://www.owocoin.io](https://www.owocoin.io)  
-- 🐦 Twitter/X: [https://x.com/OwOCoinERC20](https://x.com/OwOCoinERC20)  
-- 💬 Telegram: [https://t.me/OwOCoinERC20](https://t.me/OwOCoinERC20)  
-- 👾 Reddit: [https://www.reddit.com/r/OwOCoin](https://www.reddit.com/r/OwOCoin)  
+- 🐦 Twitter/X: [https://x.com/OwOCoin_io](https://x.com/OwOCoin_io)  
+- 💬 Telegram: [https://t.me/owocoin_io](https://t.me/owocoin_io)  
+- 👾 Reddit: [https://www.reddit.com/r/OwO_Crypto/](https://www.reddit.com/r/OwO_Crypto/)  
 - 📊 CoinGecko: [https://www.coingecko.com/en/coins/owo](https://www.coingecko.com/en/coins/owo)  
 - 📈 CoinMarketCap: [https://coinmarketcap.com/currencies/owo/](https://coinmarketcap.com/currencies/owo/)  
 - 📜 Etherscan: [https://etherscan.io/token/0x806a72273b961145cf5c5f040ad1fcd112b3f11a](https://etherscan.io/token/0x806a72273b961145cf5c5f040ad1fcd112b3f11a)  
